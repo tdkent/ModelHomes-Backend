@@ -2,6 +2,9 @@
 
 > Documentation for the **Node.js backend** of [ggiemh.com](https://ggiemh.com).
 
+> [!NOTE]
+> The GGIEMH backend API is no longer is in use and this repository has been archived for reference.
+
 ## About
 
 ### Description
